@@ -1,9 +1,9 @@
 # tfs-bootcamp
 ASPE's 3 day hands-on Team Foundation class, taught by an expert from Techtown Labs.
 
-Current course materials - https://aspetraining.securevdr.com/d-s76d7a3aa2f747a1b
-
 The course as we currently advertise it - http://techtowntraining.com/courses/team-foundation-server-and-visual-studio-2013-boot-camp
+
+Current course materials - https://aspetraining.securevdr.com/d-s76d7a3aa2f747a1b
 
 Here are the prerequisites we send to students enrolled in the class: http://aspetraining.com/files/Azure_ASPE_Lab_Environment_Test_with_URL.PDF
 
